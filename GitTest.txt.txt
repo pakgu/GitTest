@@ -2,4 +2,7 @@ Git을 써보자
 
 why not
 
+
 push pull !!!!!!!!
+
+push pull merge
